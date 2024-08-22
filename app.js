@@ -1,3 +1,2 @@
-let firstName = "Mehemmed";
-let lastName = "Huseynov";
-console.log("Menim adim "+ firstName +" "+ lastName+"dir."+"Tanisligimiza cox shadam.")
+let fullName = "Mehemmed Huseynov";
+console.log(fullName[0] + " " + fullName[fullName.indexOf(" ") + 1])
